@@ -1,5 +1,9 @@
 package step01;
-
+/*
+ * 날짜: 2022/08/19
+ * 이름: 김재준
+ * 내용: 백준 1단계 14번 문제. 개
+ */
 public class _14 {
 	public static void main(String[] args) {
 		System.out.println("|\\_/|");

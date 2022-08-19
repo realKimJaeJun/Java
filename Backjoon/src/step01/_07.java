@@ -1,5 +1,9 @@
 package step01;
-
+/*
+ * 날짜: 2022/08/19
+ * 이름: 김재준
+ * 내용: 백준 1단계 7번 문제. 사칙연산
+ */
 import java.util.Scanner;
 
 public class _07 {
