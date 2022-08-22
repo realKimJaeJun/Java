@@ -6,7 +6,7 @@ package ch04;
  */
 public class p97 {
 	public static void main(String[] args) {
-		int age = 9;
+		int age = 67;
 		int charge;
 		
 		if(age < 8) {
@@ -20,6 +20,10 @@ public class p97 {
 		else if(age < 20) {
 			charge = 2500;
 			System.out.println("중, 고등학생입니다.");
+		}
+		else if(age >= 60){
+			charge = 0;
+			System.out.println("경로우대입니다.");
 		}
 		else {
 			charge = 3000;
