@@ -37,6 +37,4 @@ public class MethodOverloading {
 	public static String plus(String a, String b) {
 		return a + b;
 	}
-	
-	
 }
