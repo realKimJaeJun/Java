@@ -56,8 +56,4 @@ public class MethodTypeTest {
 		System.out.println("type4 result : "+type1(1.2));
 		
 	}
-	
-	
-	
-	
 }
