@@ -13,7 +13,6 @@ public class p94 {
 		else {
 			System.out.println("학교에 다니지 않습니다.");
 		}
-		
 		char gender = 'F';
 			if(gender == 'F') {
 				System.out.println("여성입니다.");
