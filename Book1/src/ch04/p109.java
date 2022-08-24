@@ -18,10 +18,10 @@ public class p109 {
 		int num0 = 1;
 		int sum0 = 0;
 		
-		while(num <= 50) {
-			sum += num;
-			num++;
+		while(num0 <= 50) {
+			sum0 += num0;
+			num0++;
 		}
-		System.out.println("1부터 50까지 합은 "+ sum +"입니다.");
+		System.out.println("1부터 50까지 합은 "+ sum0 +"입니다.");
 	}
 }

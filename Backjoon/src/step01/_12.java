@@ -14,8 +14,8 @@ public class _12 {
 		
 		sc.close();
 		
-		System.out.println(a*(b.charAt(2)-'2'));
-		System.out.println(a*(b.charAt(1)-'1'));
+		System.out.println(a*(b.charAt(2)-'0'));
+		System.out.println(a*(b.charAt(1)-'0'));
 		System.out.println(a*(b.charAt(0)-'0'));
 		System.out.println(a* Integer.parseInt(b));
 	}
