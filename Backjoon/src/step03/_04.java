@@ -22,9 +22,5 @@ public class _04 {
 		}else {
 			System.out.println("No");
 		}
-		
-		
-		
-		
 	}
 }
