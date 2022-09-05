@@ -32,12 +32,6 @@ public class ObjectTest {
 			System.out.println("a1와 a2는 객체가 같다.");
 		}else {
 			System.out.println("a1와 a2는 객체가 다르다.");
-			
 		}
-		
-		
-		
-		
-		
 	}
 }
