@@ -11,7 +11,7 @@ package sub1;
 public class TryTest {
 	public static void main(String[] args) {
 		
-		// 예외상항1 : 어떤 수를 0으로 나눌 때
+		// 예외사항1 : 어떤 수를 0으로 나눌 때
 		int num1 = 1;
 		int num2 = 0;
 		int rs1 = 0, rs2 = 0, rs3 = 0, rs4 = 0;
@@ -33,7 +33,7 @@ public class TryTest {
 		System.out.println("rs3 : "+rs3);
 		System.out.println("rs4 : "+rs4);
 		
-		// 예외상항2 : 배열의 인덱스 범위를 벗어났을 때
+		// 예외사항2 : 배열의 인덱스 범위를 벗어났을 때
 		
 		int[] array = {1,2,3,4,5};
 		
@@ -48,7 +48,7 @@ public class TryTest {
 						
 		System.out.println();
 		
-		// 예외상항3 : Null 포인트 참조 에러
+		// 예외사항3 : Null 포인트 참조 에러
 		
 		Animal a = null;
 		
@@ -59,7 +59,7 @@ public class TryTest {
 			e.printStackTrace();
 		}
 		
-		// 예외상항4 : 캐스팅 에러
+		// 예외사항4 : 캐스팅 에러
 		
 		Animal a1 = new Tiger(); // 업캐스팅(다형성)
 		Animal a2 = new Eagle(); // 업캐스팅(다형성)
