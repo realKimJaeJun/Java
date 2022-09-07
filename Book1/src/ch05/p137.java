@@ -11,11 +11,33 @@ public class p137 {
 		
 		int sum = add(num1, num2);
 		System.out.println(num1 + " + " + num2 + " = " + sum + "입니다.");
+		
+		int sum0 = minus(num1, num2);
+		System.out.println(num1 + " - " + num2 + " = " + sum0 + "입니다.");
+		
+		int sum1 = multi(num1, num2);
+		System.out.println(num1 + " × " + num2 + " = " + sum1 + "입니다.");
+		
+		int sum2 = div(num1, num2);
+		System.out.println(num1 + " ÷ " + num2 + " = " + sum2 + "입니다.");
 	}
+	
 	
 	
 	public static int add(int n1, int n2) {
 		int result = n1 + n2;
+		return result;
+	}
+	public static int minus(int n1, int n2) {
+		int result = n1 - n2;
+		return result;
+	}
+	public static int multi(int n1, int n2) {
+		int result = n1 * n2;
+		return result;
+	}
+	public static int div(int n1, int n2) {
+		int result = n1 / n2;
 		return result;
 	}
 }
