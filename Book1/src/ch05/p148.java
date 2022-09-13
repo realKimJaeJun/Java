@@ -1,5 +1,9 @@
 package ch05;
-
+/*
+ * 날짜: 2022/09/05
+ * 이름: 김재준
+ * 내용: 인스턴스 여러 개 생성하기
+ */
 public class p148 {
 	public static void main(String[] args) {
 		p144 student1 = new p144();

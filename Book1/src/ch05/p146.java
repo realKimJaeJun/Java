@@ -1,5 +1,9 @@
 package ch05;
-
+/*
+ * 날짜: 2022/09/04
+ * 이름: 김재준
+ * 내용: StudentTest 실행 클래스 만들기
+ */
 public class p146 {
 
 	public static void main(String[] args) {
