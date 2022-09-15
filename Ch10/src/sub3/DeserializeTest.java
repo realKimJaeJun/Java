@@ -3,6 +3,11 @@ package sub3;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
 
+/*
+ * 날짜: 2022/09/14
+ * 이름: 김재준
+ * 내용: 역직렬화 실습하기
+ */
 public class DeserializeTest {
 	public static void main(String[] args) {
 		

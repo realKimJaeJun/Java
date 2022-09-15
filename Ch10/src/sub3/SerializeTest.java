@@ -37,11 +37,5 @@ public class SerializeTest {
 					e.printStackTrace();
 				}
 				System.out.println("직렬화 완료...");
-		
-		
-		
-		
-		
-		
 	}
 }
