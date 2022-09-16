@@ -30,12 +30,12 @@ public class ListTest {
 		
 		System.out.println(list);
 		
-		// 데이터 출력
+		// 데이터 출력 - get
 		System.out.println("1번째 원소 : "+ list.get(0));
 		System.out.println("2번째 원소 : "+ list.get(1));
 		System.out.println("3번째 원소 : "+ list.get(2));
 		
-		// List 크기
+		// List 크기 - size
 		System.out.println("list 크기 : "+list.size());
 		
 		// List 반복문
