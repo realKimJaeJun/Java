@@ -1,5 +1,9 @@
 package step03;
-
+/*
+ * 날짜: 2022/09/02
+ * 이름: 김재준
+ * 내용: 백준 3단계 1번 문제. 구구단
+ */
 import java.util.Scanner;
 
 public class _01 {

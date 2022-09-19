@@ -1,5 +1,9 @@
 package step03;
-
+/*
+ * 날짜: 2022/09/13
+ * 이름: 김재준
+ * 내용: 백준 3단계 5번 문제. 빠른 A+B
+ */
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

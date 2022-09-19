@@ -1,5 +1,9 @@
 package step02;
-
+/*
+ * 날짜: 2022/08/29
+ * 이름: 김재준
+ * 내용: 백준 2단계 6번 문제. 오븐 시계
+ */
 import java.util.Scanner;
 
 public class _06 {

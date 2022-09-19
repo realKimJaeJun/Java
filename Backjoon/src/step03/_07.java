@@ -1,5 +1,9 @@
 package step03;
-
+/*
+ * 날짜: 2022/09/15
+ * 이름: 김재준
+ * 내용: 백준 3단계 7번 문제. A+B - 8
+ */
 import java.util.Scanner;
 
 public class _07 {

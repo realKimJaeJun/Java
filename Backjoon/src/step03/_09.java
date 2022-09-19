@@ -1,5 +1,9 @@
 package step03;
-
+/*
+ * 날짜: 2022/09/15
+ * 이름: 김재준
+ * 내용: 백준 3단계 9번 문제. 별 찍기 - 2  
+ */
 import java.util.Scanner;
 
 public class _09 {

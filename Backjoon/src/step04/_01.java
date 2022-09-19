@@ -1,5 +1,9 @@
 package step04;
-
+/*
+ * 날짜: 2022/09/19
+ * 이름: 김재준
+ * 내용: 백준 4단계 1번 문제. 최소, 최대
+ */
 import java.util.Arrays;
 import java.util.Scanner;
 

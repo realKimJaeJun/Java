@@ -1,5 +1,9 @@
 package step03;
-
+/*
+ * 날짜: 2022/09/16
+ * 이름: 김재준
+ * 내용: 백준 3단계 13번 문제. 더하기 사이클
+ */
 import java.util.Scanner;
 
 public class _13 {

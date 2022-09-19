@@ -1,5 +1,9 @@
 package step02;
-
+/*
+ * 날짜: 2022/09/01
+ * 이름: 김재준
+ * 내용: 백준 2단계 7번 문제. 주사위 세개
+ */
 import java.util.Scanner;
 
 public class _07 {

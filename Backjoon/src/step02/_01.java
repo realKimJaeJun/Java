@@ -1,5 +1,9 @@
 package step02;
-
+/*
+ * 날짜: 2022/08/26
+ * 이름: 김재준
+ * 내용: 백준 2단계 1번 문제. 두 수 비교하기
+ */
 import java.util.Scanner;
 
 public class _01 {

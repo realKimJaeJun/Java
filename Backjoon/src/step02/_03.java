@@ -1,5 +1,9 @@
 package step02;
-
+/*
+ * 날짜: 2022/08/26
+ * 이름: 김재준
+ * 내용: 백준 2단계 3번 문제. 윤년
+ */
 import java.util.Scanner;
 
 public class _03 {
