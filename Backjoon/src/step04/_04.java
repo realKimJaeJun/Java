@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /*
- * 날짜: 2022/09/21
+ * 날짜: 2022/09/22
  * 이름: 김재준
  * 내용: 백준 4단계 4번 문제. 평균
  */
