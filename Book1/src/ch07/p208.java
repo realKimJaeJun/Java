@@ -6,7 +6,7 @@ package ch07;
  */
 public class p208 {
 	public static void main(String[] args) {
-		p207[] library = new p207[5]; //p207 == Book
+		Book[] library = new Book[5];
 		
 		for(int i=0; i<library.length; i++) {
 			System.out.println(library[i]);

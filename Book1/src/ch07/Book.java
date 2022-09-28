@@ -4,13 +4,13 @@ package ch07;
  * 이름: 김재준
  * 내용: 객체 배열 만들기(1)  
  */
-public class p207 { //p207 == book
+public class Book { 
 	private String bookName;
 	private String author;
 	
-	public p207() {}
+	public Book() {}
 	
-	public p207(String bookName, String author) {
+	public Book(String bookName, String author) {
 		this.bookName = bookName;
 		this.author = author;
 	}
